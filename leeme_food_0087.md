@@ -10,3 +10,14 @@
 
 ### ---- Mostrar tiempo de cocinado 
 ![alt text](image-2.png)
+
+### Creación de gráficas 
+![alt text](image-3.png)
+
+### Grafica de varias columnas 
+![alt text](image-4.png)
+
+### Graficas apiladas verticalmente 
+![alt text](image-5.png)
+
+### 
