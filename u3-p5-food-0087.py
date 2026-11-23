@@ -35,4 +35,3 @@ plt.xlabel("Nombre de la comida ")
 plt.ylabel("Tiempo de cocinado y preparación")
 plt.show()
 
-print("--- GRÁFICAS APILADAS UNA TRAS OTRA VERTICALMENTE - ALONSO 0087---")
